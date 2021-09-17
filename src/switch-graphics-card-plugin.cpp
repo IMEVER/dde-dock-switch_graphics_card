@@ -15,7 +15,7 @@ SwitchGraphicsCardPlugin::SwitchGraphicsCardPlugin(QObject *parent)
 
 const QString SwitchGraphicsCardPlugin::pluginName() const
 {
-    return QStringLiteral("datetime");
+    return QStringLiteral("switch-graphics-card");
 }
 
 const QString SwitchGraphicsCardPlugin::pluginDisplayName() const
